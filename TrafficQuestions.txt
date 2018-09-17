@@ -1,0 +1,4 @@
+Traffic Questions
+
+I implemented a side-stepping strategy so that when a vehicle is stuck, it takes one step to the side of its normal path. One step East for a South-moving car, and one step South for an East-moving car. This actually worked really well, you can increase the traffic density all the way to 99% and it will never become 100% jammed. Try it! You can see that there is still some movement no matter what!
+
